@@ -2,8 +2,7 @@ See sh_nw
 
 USAGE 
 =======
-python nw_unfold.py \
- 
+python nw_unfold.py 
 <path e.g. /home/users/nwan/02Project/14_DIELC_NW/00_NW/R5/00_pristine/1U_40_hybrid> \
 
 -p <4 indices (0~n) of atoms pointing primitive cells. e.g. 84 89 101 104>  \
