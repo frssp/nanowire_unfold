@@ -1,0 +1,9 @@
+#!/bin/bash
+python nw_unfold.py \
+/home/users/nwan/02Project/14_DIELC_NW/00_NW/R5/00_pristine/1U_40_hybrid \
+-p 84 89 101 104 \
+-b 23 84 \
+-n 270 271 272 295 296 297 298 299 300 320 321 322 323 324 -k 0
+# --band \
+# --bandkpt 0 0 0 0.5 0.5 0
+# -n 271  -k 0
